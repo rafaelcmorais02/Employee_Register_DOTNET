@@ -1,0 +1,16 @@
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\PROJECT_01_REV01\DIO.Registro\bin\Debug\net5.0\DIO.Registro.exe
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\PROJECT_01_REV01\DIO.Registro\bin\Debug\net5.0\DIO.Registro.deps.json
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\PROJECT_01_REV01\DIO.Registro\bin\Debug\net5.0\DIO.Registro.runtimeconfig.json
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\PROJECT_01_REV01\DIO.Registro\bin\Debug\net5.0\DIO.Registro.runtimeconfig.dev.json
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\PROJECT_01_REV01\DIO.Registro\bin\Debug\net5.0\DIO.Registro.dll
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\PROJECT_01_REV01\DIO.Registro\bin\Debug\net5.0\ref\DIO.Registro.dll
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\PROJECT_01_REV01\DIO.Registro\bin\Debug\net5.0\DIO.Registro.pdb
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\PROJECT_01_REV01\DIO.Registro\obj\Debug\net5.0\DIO.Registro.csproj.AssemblyReference.cache
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\PROJECT_01_REV01\DIO.Registro\obj\Debug\net5.0\DIO.Registro.GeneratedMSBuildEditorConfig.editorconfig
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\PROJECT_01_REV01\DIO.Registro\obj\Debug\net5.0\DIO.Registro.AssemblyInfoInputs.cache
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\PROJECT_01_REV01\DIO.Registro\obj\Debug\net5.0\DIO.Registro.AssemblyInfo.cs
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\PROJECT_01_REV01\DIO.Registro\obj\Debug\net5.0\DIO.Registro.csproj.CoreCompileInputs.cache
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\PROJECT_01_REV01\DIO.Registro\obj\Debug\net5.0\DIO.Registro.dll
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\PROJECT_01_REV01\DIO.Registro\obj\Debug\net5.0\ref\DIO.Registro.dll
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\PROJECT_01_REV01\DIO.Registro\obj\Debug\net5.0\DIO.Registro.pdb
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\PROJECT_01_REV01\DIO.Registro\obj\Debug\net5.0\DIO.Registro.genruntimeconfig.cache
